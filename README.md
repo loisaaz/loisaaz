@@ -82,6 +82,15 @@ Valorizo o trabalho em equipe e a troca de ideias. Estou constantemente em busca
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg](https://img.icons8.com/?size=100&id=40670&format=png&color=000000)" 
+/>
+
 <br/>
 <br/>
 
