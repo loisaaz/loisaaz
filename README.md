@@ -88,7 +88,7 @@ Valorizo o trabalho em equipe e a troca de ideias. Estou constantemente em busca
     title="C"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://icons8.com.br/icon/40670/c-programming" 
+    src="https://icons8.com.br/icon/40670/c-programming](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css)" 
 />
 
 <br/>
